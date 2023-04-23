@@ -1,0 +1,127 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+# localhost name resolution is handled within DNS itself.
+# SSO
+# Service
+# Web
+#Cache File
+#Doc MWG
+# 102.54.94.97   rhino.acme.com                                   # source server
+# 38.25.63.10    x.acme.com                                       # x client host
+# 127.0.0.1      localhost
+# ::1            localhost
+  10.1.5.107     docs.tgdd.vn
+  10.1.5.111     docsv.tgdd.vn
+  10.1.4.204     git.thegioididong.com
+  10.1.6.210     betaloginlive.thegioididong.com
+  10.1.6.210     betaapiloginlive.thegioididong.com
+  10.1.6.210     betapermission.thegioididong.com
+  10.1.4.217     betapurchasingservices.mwg.vn
+  10.1.4.217     betaeinvoiceservices.thegioididong.com
+  10.1.4.217     betaerpmasterdataservices.thegioididong.com
+  127.0.0.1      betaerpmasterdataserviceslocal.thegioididong.com
+  10.1.4.217     betaerpheavyreportservices.thegioididong.com
+  10.1.4.217     betaerpwmssupportservices.thegioididong.com
+  10.1.4.217     betaerpreportservices.thegioididong.com
+  10.1.4.217     betaerpsupportservices.thegioididong.com
+  10.1.4.217     betaerptransactionservices.thegioididong.com
+  10.1.4.217     betaerpdiscountservices.thegioididong.com
+  10.1.4.217     betalogin.baocaonoibo.com
+  10.1.4.217     betaerppaymentservices.thegioididong.com
+  10.1.4.217     betaerpsaleservices.thegioididong.com
+  10.1.4.217     betaaccountingservices.thegioididong.com
+  10.1.4.217     betadatacacheservices.thegioididong.com
+  10.1.4.217     betaerpevoucherservices.thegioididong.com
+  10.1.4.217     betawmsservices.thegioididong.com
+  10.1.4.217     betaweberp.thegioididong.com
+  10.1.4.217     betapurchasing.mwg.vn
+  10.1.4.217     betapartner.thegioididong.com
+  10.1.4.217     betamasterdata.thegioididong.com
+  10.1.4.217     betanewweberp.thegioididong.com
+# 127.0.0.1      betanewweberp.thegioididong.com
+# 10.1.4.217     betaeinvoice.thegioididong.com
+  127.0.0.1      tgdd.erp.webapp.com
+  10.1.4.233     erpauthenapi.tgddbeta.vn
+  10.1.4.233     erpcacheapi.tgddbeta.vn
+  10.1.4.233     erpmdmapi.tgddbeta.vn
+  10.1.4.233     erpcoreapi.tgddbeta.vn
+  10.1.4.233     erpservicecontrolapi.tgddbeta.vn
+  10.1.4.233     erpsearchengineapi.tgddbeta.vn
+  10.1.4.233     erpapplogapi.tgddbeta.vn
+  10.1.4.231     erpcachefilecdnbk1.tgddbeta.vn
+  10.1.4.233     erpcachefilecdnbk2.tgddbeta.vn
+  10.1.4.230     erpcachefilecdn.tgddbeta.vn
+  10.1.4.230     updatefilecdn.tgddbeta.vn
+# 10.1.4.217     betaerpmasterdataservices.thegioididong.com
+  10.1.4.217     betasso.thegioididong.com
+  10.1.4.217     betaerpdatafiles.thegioididong.com
+  10.1.5.125     docs.itmwg.vn
+  127.0.0.1      freshersvc.dev.com
+  127.0.0.1      reshersvc.dev.com
+  127.0.0.1      demonoteapi.com
+  172.16.3.114   sourceapp.tgdd.vn
+  127.0.0.1      gitlab.example.com
+  127.0.0.1      demoaspmvc.com
+  10.1.4.217     betaapigreenhouse.mwgroup.vn
+  10.1.4.86      testcdn.bachhoaxanh.com
+  10.1.4.86      testpos.bachhoaxanh.com
+  10.1.5.60      betazuul.tgdd.vn
+  10.1.4.217     betaapieinvoice.mwgroup.vn
+  192.168.2.53   signxmlncipherservices_java.thegioididong.com
+  10.1.6.75      devexcel.tgdd.vn
+  10.1.5.46      devposapi.mwgerp.com
+  10.1.4.103     betacrmwebapi.thegioididong.com
+  192.168.2.204  stagingcrmwebapi.thegioididong.com
+  192.168.2.38   crmwebapi.thegioididong.com
+  10.1.4.103     betacrm.thegioididong.com
+  103.90.227.227 centos2cpu2ram40ssd
+  127.0.0.1      devmwg.com
+  10.1.6.210     betaapi.dienmay.com
+  10.1.4.217     betalanguageapi.thegioididong.com
+  10.1.12.80     erpgit.thegioididong.com
+  10.1.12.80     giterp.itmwg.vn
+  127.0.0.1      mwgapp.com
+  127.0.0.1      kubernetes.docker.internal
+  10.1.4.80      testcmsapp.thegioididong.com
+  192.168.2.221  datalake.staging
+  10.1.6.75      devaccountant.tgdd.vn
+  10.1.4.217     betaerpapi.thegioididong.com
+  10.1.6.75      betaaccounting.thegioididong.com
+  127.0.0.1      betaeinvoice.thegioididong.com
+  #127.0.0.1      nettruyenup.com
+  #127.0.0.1      www.nettruyenup.com
+  #172.16.2.41 erpapp.tgdd.vn
+  172.16.2.41 accounting.tgdd.vn
+  192.168.2.43 erpapi.thegioididong.com
+  
+ 
+  
+  
+# Added by Docker Desktop
+192.168.47.116 host.docker.internal
+192.168.47.116 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
+
+# Managed by Access Blocker
+
+
+
+
+
+
+# End of Access Blocker section
